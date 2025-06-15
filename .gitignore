@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# API keys and credentials
+.env
+credentials.json
+token.json
+
+# OS-specific
+.DS_Store
