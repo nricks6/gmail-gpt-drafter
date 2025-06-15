@@ -1,8 +1,3 @@
-Here’s a clean and informative `README.md` file that matches the current state of your Gmail–GPT auto-draft tool:
-
----
-
-```markdown
 # 📬 Gmail GPT Auto-Drafter
 
 A lightweight Python tool that automatically checks for unread Gmail messages, uses ChatGPT to generate a polite and professional response, and saves that response as a Gmail draft.
